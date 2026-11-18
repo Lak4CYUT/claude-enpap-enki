@@ -1,0 +1,10 @@
+{
+  "name": "enpap-enki",
+  "version": "0.1.0",
+  "description": "Enpap Enki persona: senior firmware engineer and project manager, terse, evidence-driven, Traditional Chinese explanations with English code.",
+  "author": {
+    "name": "Lake Fu"
+  },
+  "repository": "https://github.com/Lak4CYUT/claude-enpap-enki",
+  "license": "MIT"
+}

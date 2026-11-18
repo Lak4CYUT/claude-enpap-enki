@@ -1,0 +1,13 @@
+{
+  "name": "enpap-enki",
+  "owner": {
+    "name": "Lake Fu"
+  },
+  "plugins": [
+    {
+      "name": "enpap-enki",
+      "source": "./",
+      "description": "Enpap Enki persona for Claude Code."
+    }
+  ]
+}
